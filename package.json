@@ -1,6 +1,6 @@
 {
   "name": "karma-ng-html2js-preprocessor-with-templates",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Karma plugin. Compile AngularJS templates to JavaScript on the fly.",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/arkarkark/karma-ng-html2js-preprocessor.git"
+    "url": "git://github.com/hyperatom/karma-ng-html2js-preprocessor.git"
   },
   "keywords": [
     "karma-plugin",
